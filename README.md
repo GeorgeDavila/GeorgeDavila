@@ -68,8 +68,22 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/github-logo.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/terminal-logo.png" />][terminal]
 
+<!-- More language logos I added in case you want to base your Readme off of this one 
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][css3]
+[<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][sass]
+[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][react]
+[<img align="left" alt="gatsby" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][gatsby]
+[<img align="left" alt="graphQL" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][graphQL]
+[<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][nodejs]
+[<img align="left" alt="deno" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][deno]
+[<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][sql]
+[<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][mysql]
+[<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][mongodb]
+-->
+
+
 <!-- to link to something use this format
-[<img align="left" alt="Terminal" width="26px" src=" " />][link defined at bottom]
+[<img align="left" alt="YOUR_TEXT" width="26px" src="YOUR_LINK" />][DEFINE THE LINK AT THE BOTTOM]
 -->
 
 <br />
@@ -102,6 +116,17 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [terminal]: https://devblogs.microsoft.com/commandline/
+
+[css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[sass]: https://sass-lang.com/
+[react]: https://reactjs.org/
+[gatsby]: https://www.gatsbyjs.com/
+[graphQL]: https://graphql.org/
+[nodejs]: https://nodejs.org/en/about/
+[deno]: https://deno.land/
+[sql]: https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15
+[mysql]: https://dev.mysql.com/doc/
+[mongodb]: https://docs.mongodb.com/
 
 <!-- Schools & Affiliations -->
 [stanford]: https://www.stanford.edu/
