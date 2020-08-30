@@ -11,7 +11,7 @@ I recently released [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-
 ## I'm an A.I. Engineer & Founding CEO
 - 🔭 I’m currently working on an A.I. for Business Intelligence Startup & my SecureTech company Saviors.ai 
 - 🌱 I’m currently learning Flutter & dart 
-- 👯 I’m looking to collaborate on fun A.I. project
+- 👯 I’m looking to collaborate on fun A.I. projects
 - 🤔 I’m looking for salespeople & flutter devs
 - 📫 How to reach me: Email me @ gaddog94@gmail.com for press or collaboration inquiries
 
@@ -57,16 +57,16 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][tensorflow]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/python-logo.png" />][python]
+[<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/tf-logo.png" />][tensorflow]
 [<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/pytorch-logo.png" />][pytorch]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/vscode-logo.png" />][vscode]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/cpp-logo.png" />][C++]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
-[<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/html5-logo.png" />][HTML5]
+[<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/javascript-logo.png" />][JavaScript]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/git-logo.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/github-logo.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/terminal-logo.png" />][terminal]
 
 <!-- to link to something use this format
 [<img align="left" alt="Terminal" width="26px" src=" " />][link defined at bottom]
