@@ -32,6 +32,7 @@
 
 <!-- We use 80pixel width with these logos, adjust as desired. Make sure to include breaks to prevent wierd smooshing together -->
 <br /> 
+<br /> 
 
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem-8y8xp35mu.vercel.app/api/spotify)](https://open.spotify.com/user/1255487149)
