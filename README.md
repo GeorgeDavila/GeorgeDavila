@@ -3,7 +3,7 @@
 <!-- Formatted based off of https://github.com/codeSTACKr 's profile Readme, go check out his if you want to format your own! Most of the images here are src'd from simpleicons.org/ and github itself, see this video: https://www.youtube.com/watch?v=n6d4KHSKqGk -->
 
 ### Hi there, I'm George Durendal 👋
-I recently released [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327). If you have any questions about that feel free to shoot me an email. 
+I recently released [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327). If you have any questions about that feel free to shoot me an email. Davila is an alternative last name, but I mostly go by Durendal now.
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/GDurendal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=GDurendal)
@@ -97,6 +97,16 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 ➡️ [All blog posts:](https://medium.com/@GDurendal) 
 
 ---
+
+<!--
+---
+### 📕 Media Coverage
+- [NYPost](https://futurism.com/the-byte/ai-trained-bible-bleak-religious-prophecies)
+- [Futurism](https://futurism.com/the-byte/ai-trained-bible-bleak-religious-prophecies)
+- [DailyMail](https://www.dailymail.co.uk/sciencetech/article-8668109/amp/Engineer-creates-AI-Jesus-feeding-King-James-Bible-produces-scripture.html)
+- [TheNextWeb](https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/amp/)
+---
+-->
 
 
 <!-- [website]: https://codeSTACKr.com -->
