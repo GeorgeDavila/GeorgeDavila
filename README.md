@@ -46,7 +46,7 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 
 ### Businesses:
 - [Saviors.ai](https://Saviors.ai) = AI to prevent mass shootings
-- pointingpony.com = AI to help those with disabilities access the internet more easily (Coming Soon!)
+- PointingPony.com = AI to help those with disabilities access the internet more easily (Coming Soon!)
 - DeepTulip = AI for Finance (Sold early 2020)
 
 ### Connect with me:
