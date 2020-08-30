@@ -68,7 +68,7 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/github-logo.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/terminal-logo.png" />][terminal]
 
-<!-- More language logos I added in case you want to base your Readme off of this one 
+More language logos I added in case you want to base your Readme off of this one 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][css3]
 [<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][sass]
 [<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][react]
@@ -79,7 +79,7 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 [<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][sql]
 [<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][mysql]
 [<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][mongodb]
--->
+
 
 
 <!-- to link to something use this format
