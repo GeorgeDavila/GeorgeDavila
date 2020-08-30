@@ -21,6 +21,10 @@
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-8y8xp35mu.vercel.app/api/spotify)](https://open.spotify.com/user/1255487149)
 
+<!-- Based on Repo https://github.com/GeorgeDavila/novatorem/blob/master/SetUp.md forked from https://github.com/novatorem/novatorem 
+For spotify app setup instructions see codestackr's video  https://www.youtube.com/watch?v=n6d4KHSKqGk or github.com/novatorem/novatorem/blob/master/SetUp.md 
+Deployed on Vercel, like heroku but for frontend and a bit easier to use --> 
+
 ### Connect with me:
 
 [<img align="left" alt="GDurendal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
