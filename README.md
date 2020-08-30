@@ -96,6 +96,7 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 [tensorflow]: https://www.tensorflow.org/
 [pytorch]: https://pytorch.org/
 [vscode]: https://code.visualstudio.com/
+[C++]: https://www.cplusplus.com/
 [HTML5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [javascript]: https://www.javascript.com/
 [git]: https://git-scm.com/
