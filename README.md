@@ -3,6 +3,7 @@
 <!-- Formatted based off of https://github.com/codeSTACKr 's profile Readme, go check out his if you want to format your own! Most of the images here are src'd from simpleicons.org/ and github itself, see this video: https://www.youtube.com/watch?v=n6d4KHSKqGk -->
 
 ### Hi there, I'm George Durendal 👋
+I recently released [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327). If you have any questions about that feel free to shoot me an email. 
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/GDurendal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=GDurendal)
@@ -33,9 +34,9 @@ For spotify app setup instructions see codestackr's video  https://www.youtube.c
 Deployed on Vercel, like heroku but for frontend and a bit easier to use --> 
 
 ### Affiliations:
-[<img align="left" alt="Stanford University" width="120px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/stanfordlong.png" />][stanford]
-[<img align="left" alt="Fordham University" width="120px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/fordham-logo.png" />][fordham]
-[<img align="left" alt="University of Central Florida" width="120px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/ucf-logo2.png" />][ucf] 
+[<img align="left" alt="Stanford University" width="80px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/stanfordlong.png" />][stanford]
+[<img align="left" alt="Fordham University" width="80px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/fordham-logo.png" />][fordham]
+[<img align="left" alt="University of Central Florida" width="80px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/ucf-logo2.png" />][ucf] 
 
 <!-- We use 120pixel width with these logos, adjust as desired. Make sure to include breaks to prevent wierd smooshing together, more breaks need if you make it bigger -->
 <br /> 
@@ -76,7 +77,7 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 ---
 
 ### 📕 Latest Blog Posts
-- [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327)
+- [I Created an A.I. Clone of Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327)
 
 ➡️ [All blog posts:](https://medium.com/@GDurendal) 
 
