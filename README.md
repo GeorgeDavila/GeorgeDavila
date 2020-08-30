@@ -19,9 +19,8 @@
 -->
 
 ### Spotify Playing 🎧
-[![Spotify](https://georgedavila.vercel.app/api/spotify)](https://open.spotify.com/user/1255487149)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://https://novatorem-8y8xp35mu.vercel.app//api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1255487149)
 
 ### Connect with me:
 
