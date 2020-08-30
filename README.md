@@ -25,10 +25,6 @@
 - ⚡ Fun fact: ...
 -->
 
-<!-- We use 120pixel width with these logos, adjust as desired. Make sure to include breaks to prevent wierd smooshing together, more breaks need if you make it bigger -->
-<br /> 
-<br /> 
-
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-8y8xp35mu.vercel.app/api/spotify)](https://open.spotify.com/user/1255487149)
 
@@ -40,6 +36,10 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 [<img align="left" alt="Stanford University" width="120px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/stanfordlong.png" />][stanford]
 [<img align="left" alt="Fordham University" width="120px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/fordham-logo.png" />][fordham]
 [<img align="left" alt="University of Central Florida" width="120px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/ucf-logo2.png" />][ucf] 
+
+<!-- We use 120pixel width with these logos, adjust as desired. Make sure to include breaks to prevent wierd smooshing together, more breaks need if you make it bigger -->
+<br /> 
+<br /> 
 
 ### Connect with me:
 
