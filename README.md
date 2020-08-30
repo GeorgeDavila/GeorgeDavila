@@ -71,7 +71,7 @@
 <!-- Language Icon Links -->
 [python]: https://www.python.org/
 [tensorflow]: https://www.tensorflow.org/
-[pytorch]: https://pytorch.org/]
+[pytorch]: https://pytorch.org/
 [vscode]: https://code.visualstudio.com/
 [HTML5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [javascript]: https://www.javascript.com/
