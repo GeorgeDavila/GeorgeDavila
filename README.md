@@ -26,9 +26,9 @@
 -->
 
 ### Affiliations:
-[<img align="left" alt="Stanford University" width="80px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/stanfordlong.png" />][stanford]
-[<img align="left" alt="Fordham University" width="80px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/fordham-logo.png" />][fordham]
-[<img align="left" alt="University of Central Florida" width="80px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/ucflogo.png" />][ucf] 
+[<img align="left" alt="Stanford University" width="120px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/stanfordlong.png" />][stanford]
+[<img align="left" alt="Fordham University" width="120px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/fordham-logo.png" />][fordham]
+[<img align="left" alt="University of Central Florida" width="120px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/ucf-logo2.png" />][ucf] 
 
 <!-- We use 80pixel width with these logos, adjust as desired. Make sure to include breaks to prevent wierd smooshing together -->
 <br /> 
