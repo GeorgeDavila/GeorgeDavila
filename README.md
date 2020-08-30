@@ -15,6 +15,8 @@ I recently released [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-
 - 🤔 I’m looking for salespeople & flutter devs
 - 📫 How to reach me: Email me @ gaddog94@gmail.com for press or collaboration inquiries
 
+See my Repos below 👇 for some cool projects
+
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
