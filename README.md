@@ -31,10 +31,10 @@
 ### Affiliations:
 [<img align="left" alt="Stanford University" width="60px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/stanfordlong.png" />][stanford]
 [<img align="left" alt="Fordham University" width="60px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/fordham-logo.png" />][fordham]
-[<img align="left" alt="University of Central Florida" width="60px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/ucflogo.png" />][ucf]
+[<img align="left" alt="University of Central Florida" width="60px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/ucflogo.png" />][ucf] 
 
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 [![Spotify](https://novatorem-8y8xp35mu.vercel.app/api/spotify)](https://open.spotify.com/user/1255487149)
 
 <!-- Based on Repo https://github.com/GeorgeDavila/novatorem/blob/master/SetUp.md forked from https://github.com/novatorem/novatorem 
