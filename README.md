@@ -1,6 +1,6 @@
 <!--
 **GeorgeDavila/GeorgeDavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!-- Formatted based off of https://github.com/codeSTACKr 's profile Readme, go check out his if you want to format your own! -->
+<!-- Formatted based off of https://github.com/codeSTACKr 's profile Readme, go check out his if you want to format your own! Most of the images here are src'd from his github, so may need to update if he changes the URLs-->
 
 ### Hi there, I'm George Durendal 👋
 
@@ -43,6 +43,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <!-- to link to something use this format
 [<img align="left" alt="Terminal" width="26px" src=" " />][link defined at bottom]
@@ -53,10 +54,8 @@
 
 ---
 
-<!--
 ### 📕 Latest Blog Posts
 - [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327)
--->
 
 ➡️ [All blog posts:](https://medium.com/@GDurendal) 
 
