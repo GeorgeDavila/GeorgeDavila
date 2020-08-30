@@ -33,6 +33,8 @@
 [<img align="left" alt="Fordham University" width="60px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/fordham-logo.png" />][fordham]
 [<img align="left" alt="University of Central Florida" width="60px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/ucflogo.png" />][ucf] 
 
+<!-- make sure to include breaks to prevent wierd smooshing together -->
+<br /> 
 
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem-8y8xp35mu.vercel.app/api/spotify)](https://open.spotify.com/user/1255487149)
