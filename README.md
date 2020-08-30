@@ -43,8 +43,8 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 <br /> 
 
 ### Businesses:
-[Saviors.ai](https://Saviors.ai)
-pointingpony.com - Coming Soon!
+- [Saviors.ai](https://Saviors.ai)
+- pointingpony.com - Coming Soon!
 
 ### Connect with me:
 
