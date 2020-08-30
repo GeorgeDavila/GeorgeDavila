@@ -70,15 +70,15 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 
 More language logos I added in case you want to base your Readme off of this one 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][css3]
-[<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][sass]
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][react]
-[<img align="left" alt="gatsby" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][gatsby]
-[<img align="left" alt="graphQL" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][graphQL]
-[<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][nodejs]
-[<img align="left" alt="deno" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][deno]
-[<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][sql]
-[<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][mysql]
-[<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/css3-logo.png" />][mongodb]
+[<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/sass-logo.png" />][sass]
+[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/react-logo.png" />][react]
+[<img align="left" alt="gatsby" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/gatsby-logo.png" />][gatsby]
+[<img align="left" alt="graphQL" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/graphql-logo.png" />][graphQL]
+[<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/nodejs-logo.png" />][nodejs]
+[<img align="left" alt="deno" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/deno-logo.png" />][deno]
+[<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/sql-logo.png" />][sql]
+[<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/mysql-logo.png" />][mysql]
+[<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/mongodb-logo.png" />][mongodb]
 
 
 
