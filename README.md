@@ -99,6 +99,7 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 ---
 
 ### 📕 Latest Blog Posts
+- [Deepfake Jesus](https://medium.com/@GDurendal/deepfake-jesus-83ec11164460)
 - [I Created an A.I. Clone of Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327)
 
 ➡️ [All blog posts:](https://medium.com/@GDurendal) 
