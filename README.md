@@ -10,7 +10,7 @@ I recently released [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-
 
 ## I'm an A.I. Engineer & Founding CEO
 - 🔭 I’m currently working on an A.I. for Business Intelligence Startup & my SecureTech company Saviors.ai 
-- 🌱 I’m currently learning Flutter & dart 
+- 🌱 I’m currently learning CloudOps & Flutter 
 - 👯 I’m looking to collaborate on fun A.I. projects
 - 🤔 I’m looking for salespeople & flutter devs
 - 📫 How to reach me: Email me @ gaddog94@gmail.com for press or collaboration inquiries
