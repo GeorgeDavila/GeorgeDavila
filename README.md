@@ -47,6 +47,7 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 ---
 ### My Media Coverage
 - [NYPost](https://nypost.com/2020/08/28/engineer-creates-ai-jesus-that-makes-doomsday-prophecies/)
+- [MSN](https://www.msn.com/en-gb/entertainment/news/new-ai-jesus-can-deliver-a-sermon-but-will-you-understand-it/ar-BB18ADvO)
 - [Futurism](https://futurism.com/the-byte/ai-trained-bible-bleak-religious-prophecies)
 - [DailyMail](https://www.dailymail.co.uk/sciencetech/article-8668109/amp/Engineer-creates-AI-Jesus-feeding-King-James-Bible-produces-scripture.html)
 - [TheNextWeb](https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/amp/)
