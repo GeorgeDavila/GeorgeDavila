@@ -8,4 +8,4 @@
 ### Interviews
 - Interview with Emmy-winning journalist Diego Arias on [Telemundo](https://www.telemundo.com/shows/un-nuevo-dia/ciencia-y-tecnologia/video/crean-clon-de-jesucristo-con-inteligencia-artificial-en-nueva-york-tmvo9572331) 
 - My interview on Ireland's largest radio station [FM104](https://play.acast.com/s/room104/thesecondcoming-mancreatesaijesuschrist) 
-- [Today Show](https://www.youtube.com/watch?v=8R1O8uEL194&app=desktop) (spanish version)
+- [A New Day](https://www.youtube.com/watch?v=8R1O8uEL194&app=desktop) (spanish version)
