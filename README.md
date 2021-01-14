@@ -112,6 +112,7 @@ Or see my interview with Emmy-winning journalist Diego Arias on [Telemundo](http
 ---
 
 ### 📕 Latest Blog Posts
+- [SuperDNA: Rewriting Human DNA Using A.I.](https://gdurendal.medium.com/rewriting-human-dna-using-a-i-8a40f12394a3)
 - [Deepfake Jesus](https://medium.com/@GDurendal/deepfake-jesus-83ec11164460)
 - [I Created an A.I. Clone of Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327)
 
