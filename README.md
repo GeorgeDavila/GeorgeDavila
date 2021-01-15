@@ -59,7 +59,6 @@ Or see my interview with Emmy-winning journalist Diego Arias on [Telemundo](http
 
 ### Businesses:
 - [Saviors.ai](https://Saviors.ai) = AI to prevent mass shootings
-- PointingPony.com = AI to help those with disabilities access the internet more easily (Coming Soon!)
 - DeepTulip = AI for Finance (Sold early 2020)
 
 ### Connect with me:
