@@ -48,13 +48,6 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 
 ---
 ## Media Coverage
-My Telemundo interview featured on Un Nuevo Dia:
-TelemundoInterview_midquality720p
-<a href="https://www.youtube.com/watch?app=desktop&v=8R1O8uEL194
-" target="_blank"><img src="http://img.youtube.com/vi/8R1O8uEL194/0.jpg" 
-alt="Youtube Link" width="240" height="180" border="10" /></a>
-http://img.youtube.com/vi/JfO0KLY_ask/0.jpg
-
 - [NYPost](https://nypost.com/2020/08/28/engineer-creates-ai-jesus-that-makes-doomsday-prophecies/)
 - [MSN](https://www.msn.com/en-gb/entertainment/news/new-ai-jesus-can-deliver-a-sermon-but-will-you-understand-it/ar-BB18ADvO)
 - [Futurism](https://futurism.com/the-byte/ai-trained-bible-bleak-religious-prophecies)
@@ -62,6 +55,10 @@ http://img.youtube.com/vi/JfO0KLY_ask/0.jpg
 - [TheNextWeb](https://thenextweb.com/neural/2020/08/28/ai-jesus-will-help-you-embrace-the-apocalypse/amp/)
 
 Or see my interview with Emmy-winning journalist Diego Arias on [Telemundo](https://www.telemundo.com/shows/un-nuevo-dia/ciencia-y-tecnologia/video/crean-clon-de-jesucristo-con-inteligencia-artificial-en-nueva-york-tmvo9572331), my interview on Ireland's largest radio station [FM104](https://play.acast.com/s/room104/thesecondcoming-mancreatesaijesuschrist), and even the Spanish-language version of [A New Day](https://www.youtube.com/watch?v=8R1O8uEL194&app=desktop). 
+
+[<img align="left" alt="Telemundo Interview" width="180px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/telemundo_interview.png" />][telemundoInterviewYT]
+
+
 ---
 
 ### Businesses:
@@ -165,3 +162,6 @@ Or see my interview with Emmy-winning journalist Diego Arias on [Telemundo](http
 [stanford]: https://www.stanford.edu/
 [fordham]: https://www.fordham.edu/
 [ucf]: https://www.ucf.edu/
+
+<!-- Media -->
+[telemundoInterviewYT]: https://www.youtube.com/watch?app=desktop&v=8R1O8uEL194
