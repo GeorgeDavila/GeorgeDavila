@@ -56,8 +56,10 @@ Deployed on Vercel, like heroku but for frontend and a bit easier to use -->
 
 Or see my interview with Emmy-winning journalist Diego Arias on [Telemundo](https://www.telemundo.com/shows/un-nuevo-dia/ciencia-y-tecnologia/video/crean-clon-de-jesucristo-con-inteligencia-artificial-en-nueva-york-tmvo9572331), my interview on Ireland's largest radio station [FM104](https://play.acast.com/s/room104/thesecondcoming-mancreatesaijesuschrist), and even the Spanish-language version of [A New Day](https://www.youtube.com/watch?v=8R1O8uEL194&app=desktop). 
 
-[<img align="left" alt="Telemundo Interview" width="80px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/telemundo_interview.png" />][telemundoInterviewYT]
+[<img align="left" alt="Telemundo Interview" width="180px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/telemundo_interview.png" />][telemundoInterviewYT]
 
+<br /> 
+<br /> 
 <br /> 
 <br /> 
 <br /> 
