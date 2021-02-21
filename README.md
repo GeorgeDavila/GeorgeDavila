@@ -58,7 +58,7 @@ Or see my interview with Emmy-winning journalist Diego Arias on [Telemundo](http
 
 [<img align="left" alt="Telemundo Interview" width="180px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/telemundo_interview.png" />][telemundoInterviewYT]
 
-
+<br /> 
 ---
 
 ### Businesses:
