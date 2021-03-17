@@ -5,7 +5,7 @@
 ### Hi there, I'm George Durendal 👋
 I recently released [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327). If you have any questions about that feel free to shoot me an email. 
 
-I'm also one of the youngest Hispancic and URM Founders in tech, happy to connect with anyone. 
+I'm also one of the youngest Hispanic and URM Founders in tech, happy to connect with anyone. 
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/GDurendal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=GDurendal)
