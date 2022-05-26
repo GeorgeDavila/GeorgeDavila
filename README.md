@@ -3,7 +3,7 @@
 <!-- Formatted based off of https://github.com/codeSTACKr 's profile Readme, go check out his if you want to format your own! Most of the images here are src'd from simpleicons.org/ and github itself, see this video: https://www.youtube.com/watch?v=n6d4KHSKqGk -->
 
 ### Hi there, I'm George Durendal 👋
-I recently released [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327). If you have any questions about that feel free to shoot me an email. 
+<!---I recently released [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327). If you have any questions about that feel free to shoot me an email. --->
 
 I'm also one of the youngest Hispanic and URM Founders in tech, happy to connect with anyone. 
 
