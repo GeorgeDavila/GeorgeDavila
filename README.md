@@ -10,12 +10,7 @@ I'm also one of the youngest Hispanic and URM Founders in tech, happy to connect
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/GDurendal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=GDurendal)
 
-## I'm an A.I. Engineer & Founding CEO
-- 🔭 I’m currently working on an A.I. for Business Intelligence Startup & my SecureTech company Saviors.ai 
-- 🌱 I’m currently learning CloudOps & Flutter 
-- 👯 I’m looking to collaborate on fun A.I. projects
-- 🤔 I’m looking for salespeople & flutter devs
-- 📫 How to reach me: Email me @ gaddog94@gmail.com for press or collaboration inquiries
+## I'm an A.I. Engineer & Former Founding CEO
 
 See my Repos below 👇 for some cool projects
 
