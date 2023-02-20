@@ -2,8 +2,7 @@
 **GeorgeDavila/GeorgeDavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Formatted based off of https://github.com/codeSTACKr 's profile Readme, go check out his if you want to format your own! Most of the images here are src'd from simpleicons.org/ and github itself, see this video: https://www.youtube.com/watch?v=n6d4KHSKqGk -->
 
-### Hi there, I'm George Durendal 👋
-<!---I recently released [A.I. Jesus](https://medium.com/@GDurendal/i-created-an-a-i-clone-of-jesus-4263339c327). If you have any questions about that feel free to shoot me an email. --->
+
 
 I'm also one of the few Hispanic and URM AI engineers. 
 
@@ -14,23 +13,8 @@ I'm also one of the few Hispanic and URM AI engineers.
 
 See my Repos below 👇 for some cool projects
 
-<!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-8y8xp35mu.vercel.app/api/spotify)](https://open.spotify.com/user/1255487149)
 
-<!-- Based on Repo https://github.com/GeorgeDavila/novatorem/blob/master/SetUp.md forked from https://github.com/novatorem/novatorem 
-For spotify app setup instructions see codestackr's video  https://www.youtube.com/watch?v=n6d4KHSKqGk or github.com/novatorem/novatorem/blob/master/SetUp.md 
-Deployed on Vercel, like heroku but for frontend and a bit easier to use --> 
 
 ### Affiliations:
 [<img align="left" alt="Stanford University" width="80px" src="https://raw.githubusercontent.com/GeorgeDavila/GeorgeDavila/master/gitreadme_imgs/stanfordlong.png" />][stanford]
