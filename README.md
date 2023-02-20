@@ -13,6 +13,11 @@ I'm also one of the few Hispanic and URM AI engineers.
 
 See my Repos below 👇 for some cool projects
 
+Dehate: tensorflow.js and NLP for language moderation https://github.com/GeorgeDavila/de-hate
+Detect drowsy drivers using computer vision and facial landmark recognition: https://github.com/GeorgeDavila/DetectDrowsyDriver
+Use OCR and GPT3 to turn your handwriting into a website: https://github.com/GeorgeDavila/handwriting2website
+Use AI to create a painting of yourself: https://github.com/GeorgeDavila/Renify
+Use AI to apply a style to any image in streamlit: https://github.com/GeorgeDavila/PytorchNeuralStyleStreamlit
 
 
 
