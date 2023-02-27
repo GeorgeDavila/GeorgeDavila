@@ -55,10 +55,6 @@ Or see my interview with Emmy-winning journalist Diego Arias on [Telemundo](http
 
 ---
 
-### Businesses:
-- [Saviors.ai](https://Saviors.ai) = AI to prevent mass shootings
-- DeepTulip = AI for Finance (Sold early 2020)
-
 ### Connect with me:
 
 [<img align="left" alt="GDurendal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
